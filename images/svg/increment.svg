@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>increment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="increment" stroke="#FFFFFF" stroke-width="4">
+            <g id="Page-1" transform="translate(3.000000, 3.000000)">
+                <path d="M0,39 L79.2,39" id="Stroke-1"></path>
+                <path d="M39,79.2 L39,0" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

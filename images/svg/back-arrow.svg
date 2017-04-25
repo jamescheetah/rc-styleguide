@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>back-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="back-arrow" stroke="#FFFFFF" stroke-width="4">
+            <g id="Page-1" transform="translate(2.000000, 2.000000)">
+                <path d="M34.4873375,17.5 L0.3623375,17.5" id="Stroke-1"></path>
+                <polyline id="Stroke-4" points="17.4248375 0.6187125 0.3623375 17.6812125 17.4248375 34.7437125"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

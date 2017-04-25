@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="44px" viewBox="0 0 46 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cart" stroke="#FFFFFF" stroke-width="4">
+            <g id="Group" transform="translate(3.000000, 2.000000)">
+                <g id="Page-1" transform="translate(0.000000, 0.571429)">
+                    <path d="M37.8107417,30 L16.5379028,30 C13.1899335,30 10.3283478,27.5931429 9.76204604,24.3017143 L5.58567775,0 L0,0" id="Stroke-1" stroke-linecap="round"></path>
+                    <path d="M6.87468031,6.85714286 L40.3887468,6.85714286 L38.2954066,16.7742857 C37.5013811,20.5388571 34.2891867,23.3142857 30.4402251,23.562 L9.88836829,24.8845714" id="Stroke-3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M16.3273657,36.4285714 C16.3273657,38.0854286 14.9807877,39.4285714 13.3196931,39.4285714 C11.6585985,39.4285714 10.3120205,38.0854286 10.3120205,36.4285714 C10.3120205,34.7717143 11.6585985,33.4285714 13.3196931,33.4285714 C14.9807877,33.4285714 16.3273657,34.7717143 16.3273657,36.4285714 Z" id="Stroke-5"></path>
+                    <path d="M36.9514066,36.4285714 C36.9514066,38.0854286 35.6048286,39.4285714 33.943734,39.4285714 C32.2826394,39.4285714 30.9360614,38.0854286 30.9360614,36.4285714 C30.9360614,34.7717143 32.2826394,33.4285714 33.943734,33.4285714 C35.6048286,33.4285714 36.9514066,34.7717143 36.9514066,36.4285714 Z" id="Stroke-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
